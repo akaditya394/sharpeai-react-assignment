@@ -39,11 +39,11 @@
 ## How to Install and Run the Application
 
 1. **Clone Repository:**
+
    ```bash
    git clone https://github.com/akaditya394/sharpeai-react-assignment.git
    cd sharpeai-react-assignment
    ```
-````
 
 2. **Install Dependencies:**
 
@@ -61,3 +61,4 @@
 
 5. **Open in Browser:**
    Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
+````

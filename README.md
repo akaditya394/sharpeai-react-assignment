@@ -40,11 +40,6 @@
 
 1. **Clone Repository:**
 
-   ```bash
-   git clone https://github.com/akaditya394/sharpeai-react-assignment.git
-   cd sharpeai-react-assignment
-   ```
-
 2. **Install Dependencies:**
 
    ```bash

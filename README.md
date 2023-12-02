@@ -1,4 +1,3 @@
-````markdown
 # React.js Web Application - Frontend Developer Assignment
 
 ## Assignment Details
@@ -61,4 +60,3 @@
 
 5. **Open in Browser:**
    Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
-````

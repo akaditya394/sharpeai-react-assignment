@@ -50,13 +50,11 @@
    npm install
    ```
 
-3. **Create and config firebase.js in src folder**
-
-4. **Run the Application:**
+3. **Run the Application:**
 
    ```bash
    npm start
    ```
 
-5. **Open in Browser:**
+4. **Open in Browser:**
    Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
